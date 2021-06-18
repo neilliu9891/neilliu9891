@@ -1,8 +1,6 @@
-### Hi there 👋
-### I'm neilliu
+### I'm neilliu⚡
 
-- good day
-- good life
+- 起步不早也不晚，坚持不长也不短，致力于学习和分享golang编程语言，希望做一个自由开发工程师
 <!--
 **neilliu9891/neilliu9891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
